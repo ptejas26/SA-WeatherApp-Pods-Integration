@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/tejas/Downloads/Tejas/Learning/Swift/SwiftUI-SeanAllen/SA-WeatherApp/SA-WeatherApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SA-WeatherApp.xcodeproj">
+   </FileRef>
+</Workspace>

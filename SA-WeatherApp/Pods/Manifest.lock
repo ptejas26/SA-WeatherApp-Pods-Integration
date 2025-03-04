@@ -1,0 +1,16 @@
+PODS:
+  - APIManager-New (0.1.2)
+
+DEPENDENCIES:
+  - APIManager-New (~> 0.1.2)
+
+SPEC REPOS:
+  trunk:
+    - APIManager-New
+
+SPEC CHECKSUMS:
+  APIManager-New: 30dd87fcbf42f3eac62521f11d33b13e1aaa4055
+
+PODFILE CHECKSUM: 5944d96a8c678e0134f364952c223c0d72d0058b
+
+COCOAPODS: 1.15.2
